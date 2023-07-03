@@ -1,0 +1,20 @@
+Model Name: Gradient Boosting Classifier
+
+Features:
+- duration
+- account balance
+- age
+- lcr success
+- days since last campaign
+- number of contacts
+- house
+- campaign date
+
+
+Performance Metrics:
+- Accuracy: 0.92
+- F1 Score: 0.37
+
+Confusion Matrix:
+[[4752  167]
+ [1073  304]]
